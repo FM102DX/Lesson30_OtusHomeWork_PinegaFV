@@ -6,7 +6,7 @@ namespace Lesson30_OtusHomeWork_PinegaFV
     {
         static void Main(string[] args)
         {
-            
+            //демонстрация паттерна Прототип
             Workshop workshop1 = new Workshop("Мастерская 1", 2, 1,2000, 3000, 5000);
             Workshop workshop2 = workshop1.MyClone();
 
