@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson30_OtusHomeWork_PinegaFV/1.0.0": {
+        "runtime": {
+          "Lesson30_OtusHomeWork_PinegaFV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson30_OtusHomeWork_PinegaFV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

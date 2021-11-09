@@ -17,7 +17,7 @@ namespace Lesson30_OtusHomeWork_PinegaFV
             ShieldTitle = shieldTitle;
         }
 
-        public new Workshop MyClone()
+        public override Workshop MyClone()
         {
             return new Workshop(ShieldTitle, NumberOfWindows, NumberOfDoors, Width, Length, Height);
         }
@@ -26,7 +26,7 @@ namespace Lesson30_OtusHomeWork_PinegaFV
         {
             return $"{ShieldTitle},двери:{NumberOfDoors}, окна:{NumberOfWindows}";
         }
-        public object Clone()
+        public override object Clone()
         {
             return MyClone();
         }

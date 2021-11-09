@@ -22,12 +22,12 @@ namespace Lesson30_OtusHomeWork_PinegaFV
             Length = length;
         }
 
-        public Box MyClone()
+        public virtual Box MyClone()
         {
             return new Box(Width, Length, Height);
         }
 
-        public object Clone()
+        public virtual object Clone()
         {
             return MyClone();
         }

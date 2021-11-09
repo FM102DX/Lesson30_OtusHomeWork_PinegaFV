@@ -1,0 +1,16 @@
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Develop\OtusLearning\Lesson30\Lesson30_OtusHomeWork_PinegaFV\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

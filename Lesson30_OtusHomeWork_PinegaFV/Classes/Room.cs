@@ -19,12 +19,12 @@ namespace Lesson30_OtusHomeWork_PinegaFV
             NumberOfDoors = numberOfDoors;
         }
 
-        public new Room MyClone()
+        public override Room MyClone()
         {
             return new Room(NumberOfWindows, NumberOfDoors, Width, Length, Height);
         }
 
-        public object Clone()
+        public override object Clone()
         {
             return MyClone();
         }
